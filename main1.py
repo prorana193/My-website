@@ -21,20 +21,20 @@ def local_css(file_name):
 
 local_css("style/style.css")
  
-lottie_coding = load_lottieurl("https://lottie.host/6a336b00-f182-4c5e-9f1d-5978720030d0/Yg85wPDLaY.json")
+lottie_coding = load_lottieurl("https://lottie.host/d4ccaa48-336f-4a6d-b831-23ee7aa7dd4a/6JxjwqGm7t.json")
 image_coding  =Image.open("images/wallpaperflare.com_wallpaper.jpg")
 # image_coding2 = Image.open("images/laptop-2620118_1920.jpg")
 with st.container():
     st.subheader("Hi, I am Abdullah :wave:")
     st.title("A Web developer from Pakistan")
-    st.write("I am passionate about fining ways to use python and Vba to be more efficient and effective in it")
+    st.write("I am passionate about finding ways to use python and Vba to be more efficient and effective in it")
     st.write("[Learn More >](https://google.com)")
 
 with st.container():
     st.write("---")
     left_column, right_column =st.columns(2)
     with left_column:
-        st.header("what I do")
+        st.header("What I do")
         st.write("##")
         st.write(
             """
