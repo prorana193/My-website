@@ -60,13 +60,12 @@ with st.container():
     with image_c:
       st.image(image_coding)
     with text_C:
-        st.subheader("Integrate Lottie Animations Inside your Streamlit App")
+        st.subheader("Learn Python ")
         st.write(
-            """Learn How to use Lottie Files in Streamlit!
-            Animation make our web apps more engaging and fun, and Lottie Files are the easiest way to do so In this tutorial, I'll show you exactly how to do so it
+            """Learn How You can master Python Fast In this tutorial, I'll show you exactly how to do so.
             """
         )
-        st.markdown("[Watch this video...](https://youtu.be/TXSOitGoINE)")
+        st.markdown("[Watch this video...](https://youtu.be/qxYbHzn8bbU?si=4sgG24_WTafvcsHF)")
 with st.container():
     st.write("---")
     st.header("Get in Touch with me!")
