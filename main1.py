@@ -27,9 +27,10 @@ image_coding  =Image.open("images/wallpaperflare.com_wallpaper.jpg")
 with st.container():
     st.subheader("Hi, I am Abdullah :wave:")
     st.title("A Web developer from Pakistan")
+    st.write("Member Of Team Anas")
     st.write("I am passionate about finding ways to use python and Vba to be more efficient and effective in it")
     st.write("[Learn More >](https://google.com)")
-
+     
 with st.container():
     st.write("---")
     left_column, right_column =st.columns(2)
@@ -43,7 +44,7 @@ with st.container():
             - are looking for a way to have power of python in their day-to-day working.
             - are struggling with use of excel and are looking for a way to use Python and in efficient way.
             - are working with Excel and thinking "There should be a better way."
-
+            
             If this sounds intresting to you, consider subscribing my youtube and accessing my "100 days of python with Abdullah". """)
         st.write("Click Here. . ."
             "[100 day of Python>](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=jJFn6E9l29Forle7)")
