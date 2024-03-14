@@ -5,7 +5,7 @@ from PIL import Image
 
 
 
-st.set_page_config(page_title="code with Abdullah", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="Code with Abdullah", page_icon=":tada:", layout="wide")
 
 
 
@@ -63,7 +63,7 @@ with st.container():
     with text_C:
         st.subheader("Learn Python ")
         st.write(
-            """Learn How You can master Python Fast In this tutorial, I'll show you exactly how to do so.
+            """Learn How You can master Python fast. In this tutorial, I'll show you exactly how to do so.
             """
         )
         st.markdown("[Watch this video...](https://youtu.be/qxYbHzn8bbU?si=4sgG24_WTafvcsHF)")
