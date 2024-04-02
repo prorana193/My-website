@@ -73,7 +73,7 @@ with st.container():
     st.write("##")
     
     contact_form = """
-   <form action="https://formsubmit.co/prorana193@gmail.com" method="POST">
+   <form action="https://formsubmit.co/prorana193@gmail.com" >
         <label for="name">Name</label>
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Your name" required>
